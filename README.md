@@ -5,6 +5,8 @@ Here is the link to the competition: [agriBORA Commodity Price Forecasting Chall
 
 I was ranked in the TOP 24% (only 354 out of 1248 participants managed to submit)!
 
+---
+
 Zindi competition · agriBORA × KAMIS · Weekly price prediction for 5 Kenya counties.
 
 ---

@@ -3,8 +3,7 @@
 This competition is hosted on Zindi, a machine learning platform for data science challenges.  
 Here is the link to the competition: [agriBORA Commodity Price Forecasting Challenge 🌾 - Win €8,250 EUR](https://zindi.africa/competitions/agriBORA-Commodity-Price-Forecasting-Challenge)
 
-I was ranked in the TOP 24% (only 354 out of 1248 participants managed to submit)!
-
+Ranked in the TOP 24%
 ---
 
 Zindi competition · agriBORA × KAMIS · Weekly price prediction for 5 Kenya counties.
